@@ -1,0 +1,22 @@
+import java.util.*;
+
+public class Calci{
+
+int x;
+int y;
+int opt;
+
+
+public static void main(String[]args)
+{
+ /*get the first number from the user*/
+Scanner scanner= new scanner(System.in);
+System.out.println("Enter the first number");
+x= scanner.nextLine();
+
+/*get the second number*/
+Scanner scanner= new scanner(System.in)
+System.out.println("Enter the second number");
+y= scanner.nextLine();
+
+}
